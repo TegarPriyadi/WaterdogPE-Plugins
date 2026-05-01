@@ -74,7 +74,3 @@ Allows players to communicate across different servers.
 
 If you find bugs or have feature requests, feel free to open an issue or contact the developer.
 
-
-## <3 Donasi
-
-Please help me to buy Minecraft Badrock Original for PC
