@@ -17,7 +17,6 @@ A collection of useful plugins for **WaterdogPE** designed to improve player exp
 
 * WaterdogPE Proxy
 * Minecraft Bedrock Edition Server
-* Java 8 or higher
 
 
 ## 📥 Installation
