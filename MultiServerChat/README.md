@@ -125,7 +125,9 @@ Send direct messages across servers:
 <br>
 <img width="1600" height="698" alt="f35ea9f6-3552-4df1-9138-665acf559591" src="https://github.com/user-attachments/assets/d2a4e919-bdda-4d05-a3c8-187f58257e18" />
 
+
 ---
+
 
 <br>
 
@@ -142,7 +144,9 @@ Send direct messages across servers:
    ```
 3. Restart your WaterdogPE proxy
 
+
 ---
+
 
 ## 🤝 Support
 
