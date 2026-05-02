@@ -6,10 +6,10 @@
 A collection of useful plugins for **WaterdogPE** designed to improve player experience across multiple Minecraft Bedrock servers — without requiring cheats or complicated commands.
 
 
-| Plugin Name                                                                                                | Description                                                        | Commands                 | Features                                                                      |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------- | ----------------------------------------------------------------------------- |
-| **[ServerAccess.jar](https://github.com/TegarPriyadi/WaterdogPE-Plugins/tree/main/ServerAccess)**       | Alternative way to switch servers<br />without enabling cheats     | `.server <name>`<br />`.list` | ✔ No cheat required<br />✔ Simple command system<br />✔ Server list viewer |
-| **[MultiChatServer.jar](https://github.com/TegarPriyadi/WaterdogPE-Plugins/tree/main/MultiServerChat)** | Cross-server chat system + private <br />messaging between players | `.pm <player> <message>`        | ✔ Global chat across servers<br />✔ Private messaging system                |
+| Plugin Name                                                                                                | Description                                                        | Commands                 
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------- |
+| **[ServerAccess.jar](https://github.com/TegarPriyadi/WaterdogPE-Plugins/tree/main/ServerAccess)**       | Alternative way to switch servers<br />without enabling cheats     | `.server <name>`<br />`.list` |
+| **[MultiChatServer.jar](https://github.com/TegarPriyadi/WaterdogPE-Plugins/tree/main/MultiServerChat)** | Cross-server chat system + private <br />messaging between players | `.pm <player> <message>`        | 
 
 
 
