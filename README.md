@@ -26,49 +26,6 @@ A collection of useful plugins for **WaterdogPE** designed to improve player exp
 3. Restart your proxy server
 
 
-## 💡 Plugin Details
-
-### 🔹 [ServerAccess.jar](https://github.com/TegarPriyadi/WaterdogPE-Plugins/tree/main/ServerAccess)
-
-Switch servers easily without using `/server` command (which may require cheats).
-
-**Commands:**
-
- ```
-.server <name>
-.list
- ```
-
-**Use Case:**
-
-* Servers that disable cheats
-* Custom UI or chat-based navigation system
-
----
-
-### 🔹 [MultiChatServer.jar](https://github.com/TegarPriyadi/WaterdogPE-Plugins/tree/main/MultiServerChat)
-
-Allows players to communicate across different servers.
-
-**Commands:**
-
-```
-.pm <player> <message>
-```
-
-**Features:**
-
-* Cross-server public chat
-* Private messaging system
-* Lightweight & fast
-
-
-## 📌 Notes
-
-* Make sure all backend servers are properly registered in WaterdogPE config
-* Plugin commands use prefix `.` instead of `/`
-
-
 ## 🤝 Support
 
 If you find bugs or have feature requests, feel free to open an issue or contact the developer.
