@@ -144,15 +144,14 @@ Send direct messages across servers:
    ```
 3. Restart your WaterdogPE proxy
 
-
 ---
-
 
 ## 🤝 Support
 
 *If you encounter any bugs or feature requests, please leave an issue for the developer.*
 
 <br>
+
 ---
 
 ## 📜 License
