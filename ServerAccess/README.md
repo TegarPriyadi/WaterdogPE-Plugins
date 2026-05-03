@@ -11,14 +11,13 @@ Perfect for servers that want a clean, simple, and cheat-free multi-server exper
 
 https://github.com/user-attachments/assets/3d0a98fe-b488-405c-bc0d-5bd828afda76
 
-
 ## 🗃️ Commands
 
-| Command            | Description                  |
-| ------------------ | ---------------------------- |
-| `.server <name>` | Connect to a specific server |
-| `.list`          | Show available server list   |
-
+| Command                | Description                       |
+| ---------------------- | --------------------------------- |
+| `.server <name>`     | Connect to a specific server      |
+| `.server vip <name>` | Connect to a dedicated VIP server |
+| `.server list`       | Show available server list        |
 
 ## 📦 Downloads
 
@@ -33,7 +32,39 @@ https://github.com/user-attachments/assets/3d0a98fe-b488-405c-bc0d-5bd828afda76
    ```
 3. Restart your WaterdogPE proxy
 
+<br>
 
+## ⚙️ Added VIP Player
 
+To add a player VIP, follow these steps:
 
+1. Go to the plugin folder:
 
+```
+/plugins/ServerAccess/
+```
+
+2. Open file:
+
+```
+config.yml
+```
+
+3. Add player username to the `vip` list
+
+Example:
+
+```
+player_vip:
+      - "TEGARP4"
+```
+
+4. Save the file, then **restart the WaterdogPE server**
+
+---
+
+## 🤝 Support
+
+*If you encounter any bugs or feature requests, please leave an issue for the developer.*
+
+<br>
